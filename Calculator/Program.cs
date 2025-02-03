@@ -11,10 +11,7 @@ namespace Test_001
             Calculator.Calculator.Main(args);
 
             // call for that star_pattern class
-            StarPattern.star_pattern.Main(args);
-
+            StarPattern.StarPattern.Main(args);
         }
-
-
     }
 }

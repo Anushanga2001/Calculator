@@ -1,1 +1,0 @@
-This a normal text file. In this code base desccribe the code for difference code patters.
